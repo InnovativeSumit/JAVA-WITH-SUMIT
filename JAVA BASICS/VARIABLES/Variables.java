@@ -1,8 +1,6 @@
 public class Variables {
     public static void main(String[] args) {
-        Scanner sc = new Sacnner(System.in)
-            int n = sc.nextInt();
-
+        
         // Primitive Data Types
         byte byteVar = 127;
         short shortVar = 32767;
